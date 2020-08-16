@@ -1,0 +1,19 @@
+#canvas {
+  width: calc(100% - 7px);
+  height: auto;
+  background-color: black;
+}
+
+body {
+  margin: 0;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+@font-face {
+  font-family: 'retro';
+  src: url('/font.ttf');
+}

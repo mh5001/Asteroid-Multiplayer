@@ -1,0 +1,9 @@
+{
+  "WIDTH": 1842,
+  "HEIGHT": 977,
+  "MAX_ASTEROID": 10,
+  "SHIP_RAD": 20,
+  "SHOOT_COOLDOWN": 100,
+  "BULLET_RAD": 5,
+  "BULLET_SPEED": 12
+}
